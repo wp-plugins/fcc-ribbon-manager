@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: Francesco Fullone
 Donate link: http://www.fullo.net/blog/progetti/fcc-ribbon-manager
-Tags: ribbon, template, css
+Tags: ribbon, template, css, theme, images, links 
 Requires at least: 2.0.0
 Tested up to: 2.2.3
 Stable tag: trunk
