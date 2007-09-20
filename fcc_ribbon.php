@@ -1,6 +1,6 @@
 <?php
 /**
-Plugin Name: FCC Ribbon 
+Plugin Name: FCC Ribbon Manager 
 Plugin URI: http://www.fullo.net/blog/progetti/fcc-ribbon-manager
 Description: Add a barcamp ribbon on your blog without touching the theme<br/>Changelog: 0.1 initial release<br/> 0.2 ie6.0 hack, height and width of the ribbon are now changeable
 Version: 0.2
